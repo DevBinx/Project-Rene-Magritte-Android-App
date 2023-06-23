@@ -18,7 +18,7 @@ public class ExampleDataset {
         dataset = new ArrayList<>(5);
 
         CardData item5 = new CardData();
-        item5.setMainBackgroundResource(R.drawable.attractions);
+        item5.setMainBackgroundResource(R.drawable.main_background);
         item5.setHeadBackgroundResource(R.drawable.attractions_head);
         item5.setHeadTitle("Attractions");
         item5.setPersonMessage("Usus de bassus buxum, desiderium index!");
@@ -28,7 +28,7 @@ public class ExampleDataset {
         dataset.add(item5);
 
         CardData item4 = new CardData();
-        item4.setMainBackgroundResource(R.drawable.city_scape);
+        item4.setMainBackgroundResource(R.drawable.main_background);
         item4.setHeadBackgroundResource(R.drawable.city_scape_head);
         item4.setHeadTitle("City Scape");
         item4.setPersonMessage("Solems manducare, tanquam neuter verpa.");
@@ -38,7 +38,7 @@ public class ExampleDataset {
         dataset.add(item4);
 
         CardData item3 = new CardData();
-        item3.setMainBackgroundResource(R.drawable.cuisine);
+        item3.setMainBackgroundResource(R.drawable.main_background);
         item3.setHeadBackgroundResource(R.drawable.cuisine_head);
         item3.setHeadTitle("Cuisine");
         item3.setPersonMessage("Magnum lacteas ducunt ad orexis.");
@@ -48,7 +48,7 @@ public class ExampleDataset {
         dataset.add(item3);
 
         CardData item2 = new CardData();
-        item2.setMainBackgroundResource(R.drawable.nature);
+        item2.setMainBackgroundResource(R.drawable.main_background);
         item2.setHeadBackgroundResource(R.drawable.nature_head);
         item2.setHeadTitle("Nature");
         item2.setPersonName("Tina Caldwell");
@@ -58,7 +58,7 @@ public class ExampleDataset {
         dataset.add(item2);
 
         CardData item1 = new CardData();
-        item1.setMainBackgroundResource(R.drawable.night_life);
+        item1.setMainBackgroundResource(R.drawable.main_background);
         item1.setHeadBackgroundResource(R.drawable.night_life_head);
         item1.setHeadTitle("Night Life");
         item1.setPersonMessage("Cur adelphis studere?");
