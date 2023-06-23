@@ -48,8 +48,8 @@ public class ExampleDataset {
         dataset.add(item3);
 
         CardData item2 = new CardData();
-        item2.setMainBackgroundResource(R.drawable.golcolngde);
-        item2.setHeadBackgroundResource(R.drawable.golcolngde_head);
+        item2.setMainBackgroundResource(R.drawable.nature);
+        item2.setHeadBackgroundResource(R.drawable.nature_head);
         item2.setHeadTitle("Nature");
         item2.setPersonName("Tina Caldwell");
         item2.setPersonMessage("Nunquam perdere clabulare.");
