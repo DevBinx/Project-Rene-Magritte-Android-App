@@ -19,8 +19,8 @@ public class ExampleDataset {
 
         CardData item5 = new CardData();
         item5.setMainBackgroundResource(R.drawable.main_background);
-        item5.setHeadBackgroundResource(R.drawable.attractions_head);
-        item5.setHeadTitle("Attractions");
+        item5.setHeadBackgroundResource(R.drawable.mirror);
+        item5.setHeadTitle("The False Mirror");
         item5.setPersonMessage("Usus de bassus buxum, desiderium index!");
         item5.setPersonName("Marjorie Ellis");
         item5.setPersonPictureResource(R.drawable.marjorie_ellis);
@@ -29,8 +29,8 @@ public class ExampleDataset {
 
         CardData item4 = new CardData();
         item4.setMainBackgroundResource(R.drawable.main_background);
-        item4.setHeadBackgroundResource(R.drawable.city_scape_head);
-        item4.setHeadTitle("City Scape");
+        item4.setHeadBackgroundResource(R.drawable.golcolngde);
+        item4.setHeadTitle("Golconda");
         item4.setPersonMessage("Solems manducare, tanquam neuter verpa.");
         item4.setPersonName("Mattew Jordan");
         item4.setPersonPictureResource(R.drawable.mattew_jordan);
@@ -39,8 +39,8 @@ public class ExampleDataset {
 
         CardData item3 = new CardData();
         item3.setMainBackgroundResource(R.drawable.main_background);
-        item3.setHeadBackgroundResource(R.drawable.cuisine_head);
-        item3.setHeadTitle("Cuisine");
+        item3.setHeadBackgroundResource(R.drawable.couple);
+        item3.setHeadTitle("The Lovers");
         item3.setPersonMessage("Magnum lacteas ducunt ad orexis.");
         item3.setPersonName("Ross Rodriguez");
         item3.setPersonPictureResource(R.drawable.ross_rodriguez);
@@ -49,8 +49,8 @@ public class ExampleDataset {
 
         CardData item2 = new CardData();
         item2.setMainBackgroundResource(R.drawable.main_background);
-        item2.setHeadBackgroundResource(R.drawable.nature_head);
-        item2.setHeadTitle("Nature");
+        item2.setHeadBackgroundResource(R.drawable.pipe);
+        item2.setHeadTitle("The Treachery of Images");
         item2.setPersonName("Tina Caldwell");
         item2.setPersonMessage("Nunquam perdere clabulare.");
         item2.setListItems(prepareCommentsArray());
@@ -59,8 +59,8 @@ public class ExampleDataset {
 
         CardData item1 = new CardData();
         item1.setMainBackgroundResource(R.drawable.main_background);
-        item1.setHeadBackgroundResource(R.drawable.night_life_head);
-        item1.setHeadTitle("Night Life");
+        item1.setHeadBackgroundResource(R.drawable.people);
+        item1.setHeadTitle("The Son of Man");
         item1.setPersonMessage("Cur adelphis studere?");
         item1.setPersonName("Wallace Sutton");
         item1.setPersonPictureResource(R.drawable.wallace_sutton);
