@@ -5,8 +5,3 @@
 ![](https://geps.dev/progress/100)
 
 <br><br>
-<img src="https://github.com/DevBinx/Project-Rene-Magritte-Android-App/assets/85083733/aaa608ac-4fdf-40c1-bfeb-b80c482a9673" />
-<br><br>
-<img src="https://github.com/DevBinx/Project-Rene-Magritte-Android-App/assets/85083733/b2e5b4f4-1da5-49a2-930d-4e9824b2a40f" />
-<br><br>
-<img src="https://github.com/DevBinx/Project-Rene-Magritte-Android-App/assets/85083733/4a44184f-0409-41de-9c94-057112e65c63" />
